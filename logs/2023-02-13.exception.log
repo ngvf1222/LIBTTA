@@ -1,0 +1,557 @@
+2023-02-13 02:23:32 [리베타alpha] error: uncaughtException: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+- E:\programing\리베타\deploy-commands-g.js
+Error: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+- E:\programing\리베타\deploy-commands-g.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (E:\programing\리베타\commands\appendUser.js:3:12)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2023-02-13 02:23:50 [리베타alpha] error: uncaughtException: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+- E:\programing\리베타\index.js
+Error: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+- E:\programing\리베타\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (E:\programing\리베타\commands\appendUser.js:3:12)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2023-02-13 02:24:10 [리베타alpha] error: uncaughtException: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+- E:\programing\리베타\index.js
+Error: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+- E:\programing\리베타\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (E:\programing\리베타\commands\appendUser.js:3:12)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2023-02-13 02:24:55 [리베타alpha] error: uncaughtException: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+- E:\programing\리베타\index.js
+Error: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+- E:\programing\리베타\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (E:\programing\리베타\commands\appendUser.js:3:12)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2023-02-13 02:27:00 [리베타alpha] error: uncaughtException: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+- E:\programing\리베타\index.js
+Error: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+- E:\programing\리베타\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (E:\programing\리베타\commands\appendUser.js:3:12)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2023-02-13 02:27:47 [리베타alpha] error: uncaughtException: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+- E:\programing\리베타\index.js
+Error: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+- E:\programing\리베타\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (E:\programing\리베타\commands\appendUser.js:3:12)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2023-02-13 02:28:06 [리베타alpha] error: uncaughtException: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+- E:\programing\리베타\index.js
+Error: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+- E:\programing\리베타\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (E:\programing\리베타\commands\appendUser.js:3:12)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2023-02-13 02:28:25 [리베타alpha] error: uncaughtException: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+- E:\programing\리베타\index.js
+Error: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+- E:\programing\리베타\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (E:\programing\리베타\commands\appendUser.js:3:12)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2023-02-13 02:28:54 [리베타alpha] error: uncaughtException: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+- E:\programing\리베타\index.js
+Error: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+- E:\programing\리베타\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (E:\programing\리베타\commands\appendUser.js:3:12)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2023-02-13 02:30:21 [리베타alpha] error: uncaughtException: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+- E:\programing\리베타\index.js
+Error: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+- E:\programing\리베타\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (E:\programing\리베타\commands\appendUser.js:3:12)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2023-02-13 02:31:02 [리베타alpha] error: uncaughtException: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+- E:\programing\리베타\index.js
+Error: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+- E:\programing\리베타\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (E:\programing\리베타\commands\appendUser.js:3:12)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2023-02-13 02:31:46 [리베타alpha] error: uncaughtException: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+- E:\programing\리베타\index.js
+Error: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+- E:\programing\리베타\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (E:\programing\리베타\commands\appendUser.js:3:12)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2023-02-13 02:34:33 [리베타alpha] error: uncaughtException: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+- E:\programing\리베타\index.js
+Error: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+- E:\programing\리베타\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (E:\programing\리베타\commands\appendUser.js:3:12)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2023-02-13 02:35:42 [리베타alpha] error: uncaughtException: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+- E:\programing\리베타\index.js
+Error: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+- E:\programing\리베타\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (E:\programing\리베타\commands\appendUser.js:3:12)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2023-02-13 02:40:10 [리베타alpha] error: uncaughtException: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+- E:\programing\리베타\test.js
+Error: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+- E:\programing\리베타\test.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (E:\programing\리베타\commands\appendUser.js:3:12)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2023-02-13 02:40:48 [리베타alpha] error: uncaughtException: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+- E:\programing\리베타\test.js
+Error: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+- E:\programing\리베타\test.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (E:\programing\리베타\commands\appendUser.js:3:12)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2023-02-13 02:41:23 [리베타alpha] error: uncaughtException: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+Error: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (E:\programing\리베타\commands\appendUser.js:3:12)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+2023-02-13 02:41:48 [리베타alpha] error: uncaughtException: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+Error: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (E:\programing\리베타\commands\appendUser.js:3:12)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+2023-02-13 02:42:10 [리베타alpha] error: uncaughtException: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+Error: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (E:\programing\리베타\commands\appendUser.js:3:12)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+2023-02-13 02:42:33 [리베타alpha] error: uncaughtException: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+Error: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (E:\programing\리베타\commands\appendUser.js:4:12)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+2023-02-13 02:42:59 [리베타alpha] error: uncaughtException: Invalid string format
+Error: Invalid string format
+    at Object.run (E:\programing\리베타\node_modules\@sapphire\shapeshift\dist\index.js:1582:64)
+    at E:\programing\리베타\node_modules\@sapphire\shapeshift\dist\index.js:201:66
+    at Array.reduce (<anonymous>)
+    at StringValidator.parse (E:\programing\리베타\node_modules\@sapphire\shapeshift\dist\index.js:201:29)
+    at validateName (E:\programing\리베타\node_modules\@discordjs\builders\dist\index.js:903:17)
+    at MixedClass.setName (E:\programing\리베타\node_modules\@discordjs\builders\dist\index.js:979:5)
+    at Object.<anonymous> (E:\programing\리베타\commands\appendUser.js:8:4)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+2023-02-13 02:43:41 [리베타alpha] error: uncaughtException: Invalid string format
+Error: Invalid string format
+    at Object.run (E:\programing\리베타\node_modules\@sapphire\shapeshift\dist\index.js:1582:64)
+    at E:\programing\리베타\node_modules\@sapphire\shapeshift\dist\index.js:201:66
+    at Array.reduce (<anonymous>)
+    at StringValidator.parse (E:\programing\리베타\node_modules\@sapphire\shapeshift\dist\index.js:201:29)
+    at validateName (E:\programing\리베타\node_modules\@discordjs\builders\dist\index.js:903:17)
+    at MixedClass.setName (E:\programing\리베타\node_modules\@discordjs\builders\dist\index.js:979:5)
+    at Object.<anonymous> (E:\programing\리베타\commands\appendUser.js:7:4)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+2023-02-13 02:44:28 [리베타alpha] error: uncaughtException: Invalid string format
+Error: Invalid string format
+    at Object.run (E:\programing\리베타\node_modules\@sapphire\shapeshift\dist\index.js:1582:64)
+    at E:\programing\리베타\node_modules\@sapphire\shapeshift\dist\index.js:201:66
+    at Array.reduce (<anonymous>)
+    at StringValidator.parse (E:\programing\리베타\node_modules\@sapphire\shapeshift\dist\index.js:201:29)
+    at validateName (E:\programing\리베타\node_modules\@discordjs\builders\dist\index.js:903:17)
+    at MixedClass.setName (E:\programing\리베타\node_modules\@discordjs\builders\dist\index.js:979:5)
+    at Object.<anonymous> (E:\programing\리베타\commands\appendUser.js:7:4)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+2023-02-13 02:44:48 [리베타alpha] error: uncaughtException: Invalid string format
+Error: Invalid string format
+    at Object.run (E:\programing\리베타\node_modules\@sapphire\shapeshift\dist\index.js:1582:64)
+    at E:\programing\리베타\node_modules\@sapphire\shapeshift\dist\index.js:201:66
+    at Array.reduce (<anonymous>)
+    at StringValidator.parse (E:\programing\리베타\node_modules\@sapphire\shapeshift\dist\index.js:201:29)
+    at validateName (E:\programing\리베타\node_modules\@discordjs\builders\dist\index.js:903:17)
+    at MixedClass.setName (E:\programing\리베타\node_modules\@discordjs\builders\dist\index.js:979:5)
+    at Object.<anonymous> (E:\programing\리베타\commands\appendUser.js:7:4)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+2023-02-13 02:45:12 [리베타alpha] error: uncaughtException: Invalid string format
+Error: Invalid string format
+    at Object.run (E:\programing\리베타\node_modules\@sapphire\shapeshift\dist\index.js:1582:64)
+    at E:\programing\리베타\node_modules\@sapphire\shapeshift\dist\index.js:201:66
+    at Array.reduce (<anonymous>)
+    at StringValidator.parse (E:\programing\리베타\node_modules\@sapphire\shapeshift\dist\index.js:201:29)
+    at validateName (E:\programing\리베타\node_modules\@discordjs\builders\dist\index.js:903:17)
+    at MixedClass.setName (E:\programing\리베타\node_modules\@discordjs\builders\dist\index.js:979:5)
+    at Object.<anonymous> (E:\programing\리베타\commands\appendUser.js:7:4)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+2023-02-13 02:45:28 [리베타alpha] error: uncaughtException: Invalid string format
+Error: Invalid string format
+    at Object.run (E:\programing\리베타\node_modules\@sapphire\shapeshift\dist\index.js:1582:64)
+    at E:\programing\리베타\node_modules\@sapphire\shapeshift\dist\index.js:201:66
+    at Array.reduce (<anonymous>)
+    at StringValidator.parse (E:\programing\리베타\node_modules\@sapphire\shapeshift\dist\index.js:201:29)
+    at validateName (E:\programing\리베타\node_modules\@discordjs\builders\dist\index.js:903:17)
+    at MixedClass.setName (E:\programing\리베타\node_modules\@discordjs\builders\dist\index.js:979:5)
+    at Object.<anonymous> (E:\programing\리베타\commands\appendUser.js:7:4)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+2023-02-13 02:45:59 [리베타alpha] error: uncaughtException: Invalid string format
+Error: Invalid string format
+    at Object.run (E:\programing\리베타\node_modules\@sapphire\shapeshift\dist\index.js:1582:64)
+    at E:\programing\리베타\node_modules\@sapphire\shapeshift\dist\index.js:201:66
+    at Array.reduce (<anonymous>)
+    at StringValidator.parse (E:\programing\리베타\node_modules\@sapphire\shapeshift\dist\index.js:201:29)
+    at validateName (E:\programing\리베타\node_modules\@discordjs\builders\dist\index.js:903:17)
+    at MixedClass.setName (E:\programing\리베타\node_modules\@discordjs\builders\dist\index.js:979:5)
+    at Object.<anonymous> (E:\programing\리베타\commands\appendUser.js:7:4)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+2023-02-13 02:51:30 [리베타alpha] error: uncaughtException: Pool fails to create connection: (conn=-1, no: 1040, SQLState: HY000) Too many connections
+    (pool connections: active=0 idle=152 limit=5000)
+SqlError: Pool fails to create connection: (conn=-1, no: 1040, SQLState: HY000) Too many connections
+    (pool connections: active=0 idle=152 limit=5000)
+    at module.exports.createError (E:\programing\리베타\node_modules\mariadb\lib\misc\errors.js:57:10)
+    at PacketNodeEncoded.readError (E:\programing\리베타\node_modules\mariadb\lib\io\packet.js:586:19)
+    at Handshake.parseHandshakeInit (E:\programing\리베타\node_modules\mariadb\lib\cmd\handshake\handshake.js:31:30)
+    at PacketInputStream.receivePacketBasic (E:\programing\리베타\node_modules\mariadb\lib\io\packet-input-stream.js:76:9)
+    at PacketInputStream.onData (E:\programing\리베타\node_modules\mariadb\lib\io\packet-input-stream.js:138:20)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-02-13 02:52:07 [리베타alpha] error: uncaughtException: Pool fails to create connection: (conn=-1, no: 1040, SQLState: HY000) Too many connections
+    (pool connections: active=0 idle=152 limit=5000)
+SqlError: Pool fails to create connection: (conn=-1, no: 1040, SQLState: HY000) Too many connections
+    (pool connections: active=0 idle=152 limit=5000)
+    at module.exports.createError (E:\programing\리베타\node_modules\mariadb\lib\misc\errors.js:57:10)
+    at PacketNodeEncoded.readError (E:\programing\리베타\node_modules\mariadb\lib\io\packet.js:586:19)
+    at Handshake.parseHandshakeInit (E:\programing\리베타\node_modules\mariadb\lib\cmd\handshake\handshake.js:31:30)
+    at PacketInputStream.receivePacketBasic (E:\programing\리베타\node_modules\mariadb\lib\io\packet-input-stream.js:76:9)
+    at PacketInputStream.onData (E:\programing\리베타\node_modules\mariadb\lib\io\packet-input-stream.js:138:20)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-02-13 02:52:32 [리베타alpha] error: uncaughtException: The reply to this interaction has already been sent or deferred.
+Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.
+    at ChatInputCommandInteraction.reply (E:\programing\리베타\node_modules\discord.js\src\structures\interfaces\InteractionResponses.js:102:46)
+    at Client.<anonymous> (E:\programing\리베타\index.js:42:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-02-13 02:52:32 [리베타alpha] error: uncaughtException: (conn=4731, no: 1264, SQLState: 22003) Out of range value for column 'id' at row 1
+sql: insert into userdata values (710814200175263755, 0, NULL) - parameters:[]
+SqlError: (conn=4731, no: 1264, SQLState: 22003) Out of range value for column 'id' at row 1
+sql: insert into userdata values (710814200175263755, 0, NULL) - parameters:[]
+    at module.exports.createError (E:\programing\리베타\node_modules\mariadb\lib\misc\errors.js:57:10)
+    at PacketNodeEncoded.readError (E:\programing\리베타\node_modules\mariadb\lib\io\packet.js:586:19)
+    at Query.readResponsePacket (E:\programing\리베타\node_modules\mariadb\lib\cmd\parser.js:52:28)
+    at PacketInputStream.receivePacketBasic (E:\programing\리베타\node_modules\mariadb\lib\io\packet-input-stream.js:76:9)
+    at PacketInputStream.onData (E:\programing\리베타\node_modules\mariadb\lib\io\packet-input-stream.js:138:20)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-02-13 02:56:07 [리베타alpha] error: uncaughtException: (conn=5188, no: 1264, SQLState: 22003) Out of range value for column 'id' at row 1
+sql: insert into userdata values (710814200175263755, 0, NULL) - parameters:[]
+SqlError: (conn=5188, no: 1264, SQLState: 22003) Out of range value for column 'id' at row 1
+sql: insert into userdata values (710814200175263755, 0, NULL) - parameters:[]
+    at module.exports.createError (E:\programing\리베타\node_modules\mariadb\lib\misc\errors.js:57:10)
+    at PacketNodeEncoded.readError (E:\programing\리베타\node_modules\mariadb\lib\io\packet.js:586:19)
+    at Query.readResponsePacket (E:\programing\리베타\node_modules\mariadb\lib\cmd\parser.js:52:28)
+    at PacketInputStream.receivePacketBasic (E:\programing\리베타\node_modules\mariadb\lib\io\packet-input-stream.js:76:9)
+    at PacketInputStream.onData (E:\programing\리베타\node_modules\mariadb\lib\io\packet-input-stream.js:138:20)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-02-13 02:58:03 [리베타alpha] error: uncaughtException: (conn=5341, no: 1264, SQLState: 22003) Out of range value for column 'id' at row 1
+sql: insert into userdata values (710814200175263755, 0, NULL) - parameters:[]
+SqlError: (conn=5341, no: 1264, SQLState: 22003) Out of range value for column 'id' at row 1
+sql: insert into userdata values (710814200175263755, 0, NULL) - parameters:[]
+    at module.exports.createError (E:\programing\리베타\node_modules\mariadb\lib\misc\errors.js:57:10)
+    at PacketNodeEncoded.readError (E:\programing\리베타\node_modules\mariadb\lib\io\packet.js:586:19)
+    at Query.readResponsePacket (E:\programing\리베타\node_modules\mariadb\lib\cmd\parser.js:52:28)
+    at PacketInputStream.receivePacketBasic (E:\programing\리베타\node_modules\mariadb\lib\io\packet-input-stream.js:76:9)
+    at PacketInputStream.onData (E:\programing\리베타\node_modules\mariadb\lib\io\packet-input-stream.js:138:20)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-02-13 03:04:16 [리베타alpha] error: uncaughtException: (conn=5647, no: 1264, SQLState: 22003) Out of range value for column 'id' at row 1
+sql: insert into userdata values (710814200175263755, 0, NULL) - parameters:[]
+SqlError: (conn=5647, no: 1264, SQLState: 22003) Out of range value for column 'id' at row 1
+sql: insert into userdata values (710814200175263755, 0, NULL) - parameters:[]
+    at module.exports.createError (E:\programing\리베타\node_modules\mariadb\lib\misc\errors.js:57:10)
+    at PacketNodeEncoded.readError (E:\programing\리베타\node_modules\mariadb\lib\io\packet.js:586:19)
+    at Query.readResponsePacket (E:\programing\리베타\node_modules\mariadb\lib\cmd\parser.js:52:28)
+    at PacketInputStream.receivePacketBasic (E:\programing\리베타\node_modules\mariadb\lib\io\packet-input-stream.js:76:9)
+    at PacketInputStream.onData (E:\programing\리베타\node_modules\mariadb\lib\io\packet-input-stream.js:138:20)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-02-13 03:07:47 [리베타alpha] error: uncaughtException: Cannot find module '../dbc'
+Require stack:
+- E:\programing\리베타\index.js
+Error: Cannot find module '../dbc'
+Require stack:
+- E:\programing\리베타\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (E:\programing\리베타\index.js:5:52)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+2023-02-13 03:09:39 [리베타alpha] error: uncaughtException: Cannot find module '../dbc'
+Require stack:
+- E:\programing\리베타\index.js
+Error: Cannot find module '../dbc'
+Require stack:
+- E:\programing\리베타\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (E:\programing\리베타\index.js:5:12)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)

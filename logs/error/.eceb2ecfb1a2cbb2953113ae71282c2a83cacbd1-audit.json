@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "E:\\programing\\리베타\\logs\\error\\.eceb2ecfb1a2cbb2953113ae71282c2a83cacbd1-audit.json",
+    "files": [
+        {
+            "date": 1676212641971,
+            "name": "E:\\programing\\리베타\\logs\\error\\2023-02-12.error.log",
+            "hash": "0441521a9b7625d79c4cb64deb1590a23a6ac98b46290afc4183132d71e5a920"
+        },
+        {
+            "date": 1676214119467,
+            "name": "E:\\programing\\리베타\\logs\\error\\2023-02-13.error.log",
+            "hash": "687c11153b878015263f69fd69c97dc276bc2b40ac3ad09c0ba5062235f7a966"
+        },
+        {
+            "date": 1676331350128,
+            "name": "E:\\programing\\리베타\\logs\\error\\2023-02-14.error.log",
+            "hash": "184eb5f98cb20b123135013927d281022adf8215e89fa1ef78fc3e1e3b31a7cf"
+        }
+    ],
+    "hashType": "sha256"
+}

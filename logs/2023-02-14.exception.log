@@ -1,0 +1,160 @@
+2023-02-14 08:35:50 [리베타alpha] error: uncaughtException: Cannot find module '../dbc'
+Require stack:
+- E:\programing\리베타\index.js
+Error: Cannot find module '../dbc'
+Require stack:
+- E:\programing\리베타\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (E:\programing\리베타\index.js:6:12)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+2023-02-14 08:36:58 [리베타alpha] error: uncaughtException: Pool fails to create connection: (conn=-1, no: 1040, SQLState: HY000) Too many connections
+    (pool connections: active=0 idle=152 limit=5000)
+SqlError: Pool fails to create connection: (conn=-1, no: 1040, SQLState: HY000) Too many connections
+    (pool connections: active=0 idle=152 limit=5000)
+    at module.exports.createError (E:\programing\리베타\node_modules\mariadb\lib\misc\errors.js:57:10)
+    at PacketNodeEncoded.readError (E:\programing\리베타\node_modules\mariadb\lib\io\packet.js:586:19)
+    at Handshake.parseHandshakeInit (E:\programing\리베타\node_modules\mariadb\lib\cmd\handshake\handshake.js:31:30)
+    at PacketInputStream.receivePacketBasic (E:\programing\리베타\node_modules\mariadb\lib\io\packet-input-stream.js:76:9)
+    at PacketInputStream.onData (E:\programing\리베타\node_modules\mariadb\lib\io\packet-input-stream.js:138:20)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-02-14 08:39:51 [리베타alpha] error: uncaughtException: (conn=156, no: 1264, SQLState: 22003) Out of range value for column 'id' at row 1
+sql: insert into userdata values (710814200175263755, 0, NULL) - parameters:[]
+SqlError: (conn=156, no: 1264, SQLState: 22003) Out of range value for column 'id' at row 1
+sql: insert into userdata values (710814200175263755, 0, NULL) - parameters:[]
+    at module.exports.createError (E:\programing\리베타\node_modules\mariadb\lib\misc\errors.js:57:10)
+    at PacketNodeEncoded.readError (E:\programing\리베타\node_modules\mariadb\lib\io\packet.js:586:19)
+    at Query.readResponsePacket (E:\programing\리베타\node_modules\mariadb\lib\cmd\parser.js:52:28)
+    at PacketInputStream.receivePacketBasic (E:\programing\리베타\node_modules\mariadb\lib\io\packet-input-stream.js:76:9)
+    at PacketInputStream.onData (E:\programing\리베타\node_modules\mariadb\lib\io\packet-input-stream.js:138:20)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-02-14 08:40:35 [리베타alpha] error: uncaughtException: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+- E:\programing\리베타\index.js
+Error: Cannot find module './dbc'
+Require stack:
+- E:\programing\리베타\commands\appendUser.js
+- E:\programing\리베타\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (E:\programing\리베타\commands\appendUser.js:3:12)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2023-02-14 10:04:33 [리베타alpha] error: uncaughtException: Pool fails to create connection: (conn=-1, no: 1040, SQLState: HY000) Too many connections
+    (pool connections: active=0 idle=152 limit=5000)
+SqlError: Pool fails to create connection: (conn=-1, no: 1040, SQLState: HY000) Too many connections
+    (pool connections: active=0 idle=152 limit=5000)
+    at module.exports.createError (E:\programing\리베타\node_modules\mariadb\lib\misc\errors.js:57:10)
+    at PacketNodeEncoded.readError (E:\programing\리베타\node_modules\mariadb\lib\io\packet.js:586:19)
+    at Handshake.parseHandshakeInit (E:\programing\리베타\node_modules\mariadb\lib\cmd\handshake\handshake.js:31:30)
+    at PacketInputStream.receivePacketBasic (E:\programing\리베타\node_modules\mariadb\lib\io\packet-input-stream.js:76:9)
+    at PacketInputStream.onData (E:\programing\리베타\node_modules\mariadb\lib\io\packet-input-stream.js:138:20)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-02-14 10:10:15 [리베타alpha] error: uncaughtException: (conn=614, no: 1264, SQLState: 22003) Out of range value for column 'id' at row 1
+sql: insert into userdata values (710814200175263755, 0, NULL) - parameters:[]
+SqlError: (conn=614, no: 1264, SQLState: 22003) Out of range value for column 'id' at row 1
+sql: insert into userdata values (710814200175263755, 0, NULL) - parameters:[]
+    at module.exports.createError (E:\programing\리베타\node_modules\mariadb\lib\misc\errors.js:57:10)
+    at PacketNodeEncoded.readError (E:\programing\리베타\node_modules\mariadb\lib\io\packet.js:586:19)
+    at Query.readResponsePacket (E:\programing\리베타\node_modules\mariadb\lib\cmd\parser.js:52:28)
+    at PacketInputStream.receivePacketBasic (E:\programing\리베타\node_modules\mariadb\lib\io\packet-input-stream.js:76:9)
+    at PacketInputStream.onData (E:\programing\리베타\node_modules\mariadb\lib\io\packet-input-stream.js:138:20)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-02-14 10:11:27 [리베타alpha] error: uncaughtException: (conn=1115, no: 1264, SQLState: 22003) Out of range value for column 'id' at row 1
+sql: insert into userdata values (710814200175263755, 0, 0) - parameters:[]
+SqlError: (conn=1115, no: 1264, SQLState: 22003) Out of range value for column 'id' at row 1
+sql: insert into userdata values (710814200175263755, 0, 0) - parameters:[]
+    at module.exports.createError (E:\programing\리베타\node_modules\mariadb\lib\misc\errors.js:57:10)
+    at PacketNodeEncoded.readError (E:\programing\리베타\node_modules\mariadb\lib\io\packet.js:586:19)
+    at Query.readResponsePacket (E:\programing\리베타\node_modules\mariadb\lib\cmd\parser.js:52:28)
+    at PacketInputStream.receivePacketBasic (E:\programing\리베타\node_modules\mariadb\lib\io\packet-input-stream.js:76:9)
+    at PacketInputStream.onData (E:\programing\리베타\node_modules\mariadb\lib\io\packet-input-stream.js:138:20)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-02-14 10:13:38 [리베타alpha] error: uncaughtException: Pool fails to create connection: (conn=-1, no: 1040, SQLState: HY000) Too many connections
+    (pool connections: active=0 idle=501 limit=5000)
+SqlError: Pool fails to create connection: (conn=-1, no: 1040, SQLState: HY000) Too many connections
+    (pool connections: active=0 idle=501 limit=5000)
+    at module.exports.createError (E:\programing\리베타\node_modules\mariadb\lib\misc\errors.js:57:10)
+    at PacketNodeEncoded.readError (E:\programing\리베타\node_modules\mariadb\lib\io\packet.js:586:19)
+    at Handshake.parseHandshakeInit (E:\programing\리베타\node_modules\mariadb\lib\cmd\handshake\handshake.js:31:30)
+    at PacketInputStream.receivePacketBasic (E:\programing\리베타\node_modules\mariadb\lib\io\packet-input-stream.js:76:9)
+    at PacketInputStream.onData (E:\programing\리베타\node_modules\mariadb\lib\io\packet-input-stream.js:138:20)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-02-14 10:16:39 [리베타alpha] error: uncaughtException: Pool fails to create connection: (conn=-1, no: 1040, SQLState: HY000) Too many connections
+    (pool connections: active=0 idle=500 limit=5000)
+SqlError: Pool fails to create connection: (conn=-1, no: 1040, SQLState: HY000) Too many connections
+    (pool connections: active=0 idle=500 limit=5000)
+    at module.exports.createError (E:\programing\리베타\node_modules\mariadb\lib\misc\errors.js:57:10)
+    at PacketNodeEncoded.readError (E:\programing\리베타\node_modules\mariadb\lib\io\packet.js:586:19)
+    at Handshake.parseHandshakeInit (E:\programing\리베타\node_modules\mariadb\lib\cmd\handshake\handshake.js:31:30)
+    at PacketInputStream.receivePacketBasic (E:\programing\리베타\node_modules\mariadb\lib\io\packet-input-stream.js:76:9)
+    at PacketInputStream.onData (E:\programing\리베타\node_modules\mariadb\lib\io\packet-input-stream.js:138:20)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-02-14 10:18:43 [리베타alpha] error: uncaughtException: Pool fails to create connection: (conn=-1, no: 1040, SQLState: HY000) Too many connections
+    (pool connections: active=0 idle=501 limit=5000)
+SqlError: Pool fails to create connection: (conn=-1, no: 1040, SQLState: HY000) Too many connections
+    (pool connections: active=0 idle=501 limit=5000)
+    at module.exports.createError (E:\programing\리베타\node_modules\mariadb\lib\misc\errors.js:57:10)
+    at PacketNodeEncoded.readError (E:\programing\리베타\node_modules\mariadb\lib\io\packet.js:586:19)
+    at Handshake.parseHandshakeInit (E:\programing\리베타\node_modules\mariadb\lib\cmd\handshake\handshake.js:31:30)
+    at PacketInputStream.receivePacketBasic (E:\programing\리베타\node_modules\mariadb\lib\io\packet-input-stream.js:76:9)
+    at PacketInputStream.onData (E:\programing\리베타\node_modules\mariadb\lib\io\packet-input-stream.js:138:20)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-02-14 10:19:29 [리베타alpha] error: uncaughtException: Pool fails to create connection: (conn=-1, no: 1040, SQLState: HY000) Too many connections
+    (pool connections: active=0 idle=501 limit=5000)
+SqlError: Pool fails to create connection: (conn=-1, no: 1040, SQLState: HY000) Too many connections
+    (pool connections: active=0 idle=501 limit=5000)
+    at module.exports.createError (E:\programing\리베타\node_modules\mariadb\lib\misc\errors.js:57:10)
+    at PacketNodeEncoded.readError (E:\programing\리베타\node_modules\mariadb\lib\io\packet.js:586:19)
+    at Handshake.parseHandshakeInit (E:\programing\리베타\node_modules\mariadb\lib\cmd\handshake\handshake.js:31:30)
+    at PacketInputStream.receivePacketBasic (E:\programing\리베타\node_modules\mariadb\lib\io\packet-input-stream.js:76:9)
+    at PacketInputStream.onData (E:\programing\리베타\node_modules\mariadb\lib\io\packet-input-stream.js:138:20)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)

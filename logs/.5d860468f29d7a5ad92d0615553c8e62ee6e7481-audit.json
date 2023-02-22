@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "E:\\programing\\리베타\\logs\\.5d860468f29d7a5ad92d0615553c8e62ee6e7481-audit.json",
+    "files": [
+        {
+            "date": 1676212641981,
+            "name": "E:\\programing\\리베타\\logs\\2023-02-12.exception.log",
+            "hash": "6eef2cff87a224879dfb1242cc168d6738b7e1631c15752384265b02073c1b80"
+        },
+        {
+            "date": 1676214119473,
+            "name": "E:\\programing\\리베타\\logs\\2023-02-13.exception.log",
+            "hash": "8d3f5bdd4de516537aa67a568e9ad6820064bfc1f2695c26ae49942671458dd6"
+        },
+        {
+            "date": 1676331350146,
+            "name": "E:\\programing\\리베타\\logs\\2023-02-14.exception.log",
+            "hash": "5b7737d248d105243df124acb660fa23c6ac6a7d87e026682a46901400ff047a"
+        }
+    ],
+    "hashType": "sha256"
+}
